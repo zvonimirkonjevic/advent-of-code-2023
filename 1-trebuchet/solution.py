@@ -1,9 +1,7 @@
 import re
-inputs = []
-numbers = []
-with open("day1_inputs.txt", "r") as day1_inputs:
-    lines = day1_inputs.readlines()
-    for line in lines:
+inputs, numbers = [], []
+with open("input.txt", "r") as input:
+    for line in input.readlines():
         inputs.append(line.replace("\n", ""))
 for input in inputs:
     numbers.append(re.sub(r'[^0-9]', '', input))
