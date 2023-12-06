@@ -12,7 +12,7 @@ A repository to house solutions from Advent of Code 2023, all solutions are writ
 
 | Day | Name           | Stars |
 | --- | -------------- | ----- |
-| 01  | Trebuchet?!    | ⭐    |
+| 01  | Trebuchet?!    | ⭐⭐  |
 | 02  | Cube Conundrum | ⭐⭐  |
 | 03  | Gear Ratios    | ⭐⭐  |
 | 04  |                |       |
