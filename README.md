@@ -16,8 +16,8 @@ A repository to house solutions from Advent of Code 2023, all solutions are writ
 | 02  | Cube Conundrum | ⭐⭐  |
 | 03  | Gear Ratios    | ⭐⭐  |
 | 04  | Scratchcards   | ⭐⭐  |
-| 05  | Wait For It    | ⭐    |
-| 06  |                |       |
+| 05  |                |       |
+| 06  | Wait For It    | ⭐⭐  |
 | 07  |                |       |
 | 08  |                |       |
 | 09  |                |       |
